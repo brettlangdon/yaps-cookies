@@ -1,0 +1,26 @@
+{
+    "author": "Brett Langdon <brett@blangdon.com> (http://brett.is)",
+    "bugs": {
+        "url": "https://github.com/brettlangdon/yaps-cookies/issues"
+    },
+    "dependencies": {
+        "cookie": "~0.1.0"
+    },
+    "description": "Cookie management plugin for YAPS",
+    "keywords": [
+        "yaps",
+        "http",
+        "cookie"
+    ],
+    "license": "MIT",
+    "main": "index.js",
+    "name": "yaps-cookies",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/brettlangdon/yaps-cookies.git"
+    },
+    "scripts": {
+        "test": "make test"
+    },
+    "version": "0.1.0"
+}
